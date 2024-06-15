@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oliver Robinson</h1>
-<h3 align="center">A hardworking software developer from The United Kingdom.</h3>
+<h1 align="center">I'm Oliver Robinson</h1>
+<h3 align="center">A hardworking software developer and ethical hacker.</h3>
 
 
 
